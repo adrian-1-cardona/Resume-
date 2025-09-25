@@ -95,13 +95,12 @@
 
 %----------HEADING----------
 \begin{center}
-    {\Large \scshape Michael Scott} \\[2mm]
+    {\Large \scshape Adrian Cardona} \\[2mm]
     \footnotesize \raisebox{-0.1\height}
-    \faPhone\ \underline{(123) 456-7890} ~ 
-    {\faEnvelope\  \underline{mscott@example.com}} ~ 
-    {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/michael-scott/}{linkedin.com/in/michael-scott}}  ~
-    {\faGithub\ \underline{\href{https://github.com/m-scott}{github.com/m-scott}} ~
-    {\faBriefcase\ \underline{\href{https://mscott-portfolio.vercel.app/}{mscott-portfolio.vercel.app/}}
+    \faPhone\ \underline{(310) 489-6795} ~ 
+    {\faEnvelope\  \underline{adcardon@calpoly.edu}} ~ 
+    {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/adrian-cardona/}{linkedin.com/in/adrian-cardona}}  ~
+    {\faGithub\ \underline{\href{https://github.com/adrian-1-cardona}{github.com/adrian-cardona}} ~
     \vspace{-8pt}
 \end{center}
 
@@ -109,9 +108,8 @@
 \section{Education} \\[1mm]
   \resumeSubHeadingListStart
     \resumeSubheading
-      {University}{Expected Graduation: May 2026}
-      {Bachelor of Computer Engineering | Minor Artificial Intelligence
-      }{Location}
+      {California Polytechnic University, San Luis Obispo}{Expected Graduation: June 2027}
+      {Bachelor of Computer Science}{Location}
   \resumeSubHeadingListEnd
     \resumeItemListStart
         \resumeItem {Golden Key Honours Scholar | \textbf{GPA: 3.78}}
