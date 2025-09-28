@@ -109,18 +109,18 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {California Polytechnic University, San Luis Obispo}{Expected Graduation: June 2027}
-      {Bachelor of Computer Science}{Location}
+      {Bachelor of Computer Science}{San Luis Obispo,CA}
   \resumeSubHeadingListEnd
     \resumeItemListStart
-        \resumeItem {Golden Key Honours Scholar | \textbf{GPA: 3.78}}
+        \resumeItem {Cal Poly Scholar | \textbf{GPA: 3.71}}
         \vspace{-7pt}
-        \resumeItem {Courses: Software Engineering Practice, Applied Machine Learning, Operating Systems, Computer Architecture, Model-Based Programming, Algorithms and Data Structures, Intro. to Software Engineering}
+        \resumeItem {Courses: Statistical Methods for Engineers, Project Based Object Oriented Programming in Java }
     \resumeItemListEnd
     \vspace{-12pt}
 %-----------Experience---------------
 \section{Work Experience}
     \resumeSubHeadingListStart
-                \resumeSubheading{Tech Company}{May 2024 -- Sep 2024}{Machine Learning Engineer Intern}{Location} 
+                \resumeSubheading{Foundation for California Community Colleges}{July 2025 -- Present}{Student Research Intern}{Remote} 
                 \resumeItemListStart
                     \resumeItem{Engineered \textbf{Large Language Models (LLMs)}, including \textbf{BERT} and \textbf{Attention Models}, to analyze software engineering requirements and generate accurate dependency lists, improving project planning efficiency by \textbf{37\%}}
                     \resumeItem{Analyzed \textbf{1200+} software requirements monthly using \textbf{scikit-learn (classification models)}, \textbf{spaCy}, and \textbf{NLTK} in \textbf{Python}, saving the company \textbf{\$20,000 annually} by decreasing project lead times}
@@ -145,7 +145,7 @@
     \vspace{-5pt}
     \resumeSubHeadingListStart
     \resumeProjectHeading
-            {\textbf{{McGill Scheduler}} $|$ \emph{\href{https://mcgillscheduler.vercel.app/}{Website}{ $|$ }\href{https://github.com/Erik-Cupsa/McGill-Scheduler}{Source Code}}}{ReactJS $|$ Spring Boot $|$ PostgreSQL}
+            {\textbf{{Formula One Grand Prix Prediction }} $|$ \emph{\href{https://mcgillscheduler.vercel.app/}{Website}{ $|$ }\href{https://github.com/Erik-Cupsa/McGill-Scheduler}{Source Code}}}{ReactJS $|$ Spring Boot $|$ PostgreSQL}
             \\[5mm]
           \resumeItemListStart
             \resumeItem{Developed and deployed a full-stack web application that enhanced academic experiences of \textbf{1,000+ McGill students}}
