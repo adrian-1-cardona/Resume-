@@ -1,5 +1,4 @@
 \documentclass[letterpaper,11pt]{article}
-
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
 \usepackage{titlesec}
@@ -185,7 +184,4 @@
 \vspace{10pt}
 
 \vspace{-15pt}
-
-
-
 \end{document}
