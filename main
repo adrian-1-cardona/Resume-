@@ -16,8 +16,6 @@
 \setlength{\columnsep}{-1pt}
 \input{glyphtounicode}
 \usepackage[margin=1.4cm]{geometry}
-
-
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
 \fancyfoot{}
@@ -97,7 +95,7 @@
     {\Large \scshape Adrian Cardona} \\[2mm]
     \footnotesize \raisebox{-0.1\height}
     \faPhone\ \underline{(310) 489-6795} ~ 
-    {\faEnvelope\  \underline{adcardon@calpoly.edu}} ~ 
+    {\faEnvelope\  \underline{cardona.adrian.1029@gmail.com}} ~ 
     {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/adrian-cardona/}{linkedin.com/in/adrian-cardona}}  ~
     {\faGithub\ \underline{\href{https://github.com/adrian-1-cardona}{github.com/adrian-cardona}} ~
     \vspace{-8pt}
@@ -138,7 +136,6 @@
 \section{Projects} 
     \vspace{-5pt}
     \resumeSubHeadingListStart
- 
  \resumeProjectHeading
             {\textbf{{Therapy Chatbot}} $|$ \emph{\href{https://github.com/adrian-1-cardona/CalmMind}{Source Code}}}{HTML $|$ CSS $|$ JavaScript }
             \\[5mm]
