@@ -96,8 +96,8 @@
     \footnotesize \raisebox{-0.1\height}
     \faPhone\ \underline{(310) 489-6795} ~ 
     {\faEnvelope\  \underline{cardona.adrian.1029@gmail.com}} ~ 
-    {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/adrian-cardona/}{linkedin.com/in/adrian-cardona}}  ~
-    {\faGithub\ \underline{\href{https://github.com/adrian-1-cardona}{github.com/adrian-cardona}} ~
+    {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/adrian-cardona/}{Linkedin.com/in/adrian-cardona}}  ~
+    {\faGithub\ \underline{\href{https://github.com/adrian-1-cardona}{Github.com/adrian-cardona}} ~
     \vspace{-8pt}
 \end{center}
 
@@ -107,12 +107,17 @@
     \resumeSubheading
       {California Polytechnic University, San Luis Obispo}{Expected Graduation: June 2027}
       {Bachelor of Computer Science}{San Luis Obispo,CA}
-  \resumeSubHeadingListEnd
-    \resumeItemListStart
-        \resumeItem {Cal Poly Scholar | \textbf{GPA: 3.71}}
+      \resumeItemListStart
+        \resumeItem {Cal Poly Scholar}
         \vspace{-7pt}
         \resumeItem {Courses: Statistical Methods for Engineers, Project Based Object Oriented Programming in Java }
     \resumeItemListEnd
+      \resumeSubheading
+      {Los Angeles Harbor College}{Graduated: June 2025}
+      {Associates of Computer Science}{Los Angeles,CA}
+      \resumeItemListStart
+        \resumeItem {Dean's Honor Roll - \textbf{GPA: 3.71}}
+  \resumeSubHeadingListEnd
     \vspace{-12pt}
 %-----------Experience---------------
 \section{Work Experience}
@@ -135,14 +140,6 @@
 %-----------PROJECTS-----------
 \section{Projects} 
     \vspace{-5pt}
-    \resumeSubHeadingListStart
- \resumeProjectHeading
-            {\textbf{{Therapy Chatbot}} $|$ \emph{\href{https://github.com/adrian-1-cardona/CalmMind}{Source Code}}}{HTML $|$ CSS $|$ JavaScript }
-            \\[5mm]
-          \resumeItemListStart
-            \resumeItem{\textbf{Built} CalmMind, an AI chatbot for stress and emotional support using \textbf{HTML,CSS,} and \textbf{JavaScript} which resulted in an interactive platform that simulates therapeutic conversations}
-          \resumeItemListEnd
- \vspace{-17pt}
  \resumeProjectHeading
 {\textbf{{Formula One Grand Prix Predictor}} $|$ \emph{ \href{https://github.com/adrian-1-cardona/Formula-One-Grand-Prix-Prediction-Model-}{Source Code}}}{NumPy $|$ FastF1 API $|$ Python $|$ pandas $|$ scikit-learn}
 \\[5mm]
@@ -153,7 +150,7 @@
 \resumeItemListEnd
 
 \resumeSubHeadingListEnd
-\vspace{-28pt}
+\vspace{-5pt}
 %-----------LEADERSHIP-----------
 \section{Leadership} 
     \vspace{-5pt}
@@ -162,7 +159,6 @@
             {\textbf{{ColorStack}}}{Sept 2025 -- Present}
             \\[5mm]
           \resumeItemListStart
-            \resumeItem{Explore career development resources through \textbf{ColorStack, including technical workshops and networking events, strengthening professional readiness for software engineering opportunities}}
             \resumeItem{Engage with a \textbf{nationwide network} of computer science students from \textbf{diverse backgrounds}, fostering\textbf{peer to peer} collaboration and shared learning opportunities}
           \resumeItemListEnd
           \resumeSubHeadingListEnd
