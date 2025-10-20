@@ -96,7 +96,7 @@
     \footnotesize \raisebox{-0.1\height}
     \faPhone\ \underline{(310) 489-6795} ~ 
     {\faEnvelope\  \underline{cardona.adrian.1029@gmail.com}} ~ 
-    {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/adrian-cardona/}{Linkedin.com/in/adrian-cardona}}  ~
+    {\faLinkedin\ \underline{\href{https://www.linkedin.com/in/adrian-cardona/}{Linkedin.com/in/adrian-cardona}}}  ~
     {\faGithub\ \underline{\href{https://github.com/adrian-1-cardona}{Github.com/adrian-cardona}} ~
     \vspace{-8pt}
 \end{center}
@@ -120,7 +120,7 @@
   \resumeSubHeadingListEnd
     \vspace{-12pt}
 %-----------Experience---------------
-\section{Work Experience}
+\section{Professional Experience}
     \resumeSubHeadingListStart
                 \resumeSubheading{Foundation for California Community Colleges}{July 2025 -- Present}{Student Research Intern}{Remote} 
                 \resumeItemListStart
@@ -129,6 +129,7 @@
                     \resumeItem{Facilitated \textbf{student focus groups} and created surveys in \textbf{Qualtrics} to collect feedback, which was passed to a partner organization for further use by the Chancellor’s Office}
                     \resumeItemListEnd
             \resumeSubheading{Extern}{Feb 2025 -- April 2025}{Outamation via Extern Program}{Remote} 
+
                 \resumeItemListStart
                     \resumeItem{Developed a \textbf{Retrieval Augmented Generation (RAG) pipeline} in \textbf{Google Colab} using \textbf{Tesseract OCR} and  \textbf{PyPDF2} to extract text from sample mortgage and lease PDFs, enabling users to efficiently query and retrieve document information}
                     \resumeItem{Optimized \textbf{chunking and embedding parameters} by adjusting text chunk sizes and overlap, balancing context retention with retrieval speed, resulting in \textbf{more accurate and faster text retrieval}}
