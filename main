@@ -178,8 +178,8 @@
 \begin{itemize}[leftmargin=0.15in, label={}]
   \small{\item{
     \textbf{Languages}{: Python, TypeScript, Java, HTML, CSS, JavaScript, C++} \\[1mm]
-    \textbf{Developer Tools}{: Microsoft Excel, Google Colab, GitHub, Jira} \\[1mm]
-    \textbf{Libraries/Frameworks}{: NumPy, pandas, ReactJS, NextJS, TailwindCSS, NodeJS} \\[1mm]
+    \textbf{Libraries/Frameworks}{: ReactJS, NextJS, NodeJS, TailwindCSS, NumPy, Pandas} \\[1mm]
+    \textbf{Tools}{: Github, Jira, Google Colab, Microsoft Excel} \\[1mm]
   }}
 \end{itemize}
 
