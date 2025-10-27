@@ -168,7 +168,7 @@
   {\textbf{ColorStack}}{Sept 2025 -- Present}
   \\[5mm]
   \resumeItemListStart
-    \resumeItem{Engage with a \textbf{nationwide network} of computer science students from \textbf{diverse backgrounds}, fostering \textbf{peer-to-peer collaboration} and shared learning opportunities.}
+    \resumeItem{Engaging with a \textbf{nationwide network} of computer science students from \textbf{diverse backgrounds}, fostering \textbf{peer-to-peer collaboration} and shared learning opportunities to promote diversity in the technology field.}
   \resumeItemListEnd
 \resumeSubHeadingListEnd
 \vspace{-12pt}
@@ -177,7 +177,7 @@
 \section{Technical Skills}
 \begin{itemize}[leftmargin=0.15in, label={}]
   \small{\item{
-    \textbf{Languages}{: Python, Java, HTML, CSS, JavaScript, C++} \\[1mm]
+    \textbf{Languages}{: Python, TypeScript, Java, HTML, CSS, JavaScript, C++} \\[1mm]
     \textbf{Developer Tools}{: Microsoft Excel, Google Colab, GitHub, Jira} \\[1mm]
     \textbf{Libraries/Frameworks}{: NumPy, pandas, ReactJS, NextJS, TailwindCSS, NodeJS} \\[1mm]
   }}
