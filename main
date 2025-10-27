@@ -96,7 +96,7 @@
 
 %---------- HEADING ----------
 \begin{center}
-    {\Large \scshape Adrian Cardona} \\[2mm]
+    {\Large \scshape \textbf{Adrian Cardona}} \\[2mm]
     \footnotesize \raisebox{-0.1\height}
     \faPhone\ \underline{(310) 489-6795} ~ 
     {\faEnvelope\  \underline{cardona.adrian.1029@gmail.com}} ~ 
@@ -136,7 +136,7 @@
       \resumeItem{Facilitated \textbf{student focus groups} and created surveys in \textbf{Qualtrics} to collect feedback for the Chancellor’s Office’s partner organization.}
     \resumeItemListEnd
 
-  \resumeSubheading{Extern}{Feb 2025 -- April 2025}{Outamation via Extern Program}{Remote} 
+  \resumeSubheading{Extern}{Feb 2025 -- April 2025}{Outamation via Extern Program $|$ \emph{\href{https://www.credential.net/c8717ed5-8490-4c48-b2eb-68be2469ae97#acc.yu0cZmFR}{Certificate of Completion}}}{Remote} 
     \resumeItemListStart
       \resumeItem{Developed a \textbf{Retrieval Augmented Generation (RAG) pipeline} in \textbf{Google Colab} using \textbf{Tesseract OCR} and \textbf{PyPDF2} to extract text from mortgage and lease PDFs, enabling efficient querying.}
       \resumeItem{Optimized \textbf{chunking and embedding parameters} to balance context retention with retrieval speed, improving \textbf{accuracy and performance}.}
@@ -152,9 +152,9 @@
 {\textbf{Netflix Stock Price Predictor} $|$ \emph{\href{https://github.com/adrian-1-cardona/Netflix-Stock-Price-Predictor}{Source Code}}}{Python $|$ Pandas $|$ scikit-learn $|$ Streamlit}
 \\[5mm]
 \resumeItemListStart
-  \resumeItem{Used Python \textbf{(Pandas, NumPy, scikit‑learn)} to build a time‑series pipeline ingesting a public Netflix dataset \textbf{(Kaggle)} with schema validation; accomplished \textbf{(32 percent)} lower MAE and \textbf{2.1× faster training} via vectorization and caching}
-  \resumeItem{Used \textbf{Streamlit + Plotly} with modular, production‑like UI components and memoized data access; accomplished p95 dashboard load \textbf{<200 ms} and \textbf{55 percent} less manual analysis time through automated charts and indicators}
-  \resumeItem{Used \textbf{pytest + GitHub Actions} to enforce CI gates \textbf{(coverage ≥85 percent, lint/type checks)} and data/contract tests; accomplished \textbf{35 percent faster PR cycles and 40 percent fewer regressions} by running tests on every commit}
+  \resumeItem{Used Python and Pandas to load Netflix stock data from Kaggle and built a price prediction model, making results \textbf{32\% more accurate} and training twice as fast}
+  \resumeItem{Built a dashboard with Streamlit and Plotly to show price history and trends, helping cut manual analysis time by \textbf{55\%} and making the \textbf{app load in under 200 ms}}
+  \resumeItem{Set up automated tests and checks with pytest and GitHub Actions, \textbf{catching 40\%} more bugs and speeding up code reviews by \textbf{35\%} }
 \resumeItemListEnd
 
 \resumeSubHeadingListEnd
