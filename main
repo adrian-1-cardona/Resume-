@@ -149,12 +149,12 @@
 \section{Projects} 
 \vspace{-5pt}
 \resumeProjectHeading
-{\textbf{Formula One Grand Prix Predictor} $|$ \emph{\href{https://github.com/adrian-1-cardona/Formula-One-Grand-Prix-Prediction-Model-}{Source Code}}}{NumPy $|$ FastF1 API $|$ Python $|$ pandas $|$ scikit-learn}
+{\textbf{Netflix Stock Price Predictor} $|$ \emph{\href{https://github.com/adrian-1-cardona/Netflix-Stock-Price-Predictor}{Source Code}}}{Python $|$ Pandas $|$ scikit-learn $|$ Streamlit}
 \\[5mm]
 \resumeItemListStart
-  \resumeItem{Developed a \textbf{Formula 1 race prediction pipeline} leveraging the \textbf{FastF1 API} to extract qualifying and race data from 14 Grand Prix events in the 2025 season.}
-  \resumeItem{Engineered features such as \textbf{average finishing position, qualifying delta to pole, average speed, and driver points}, enabling predictive modeling with \textbf{pandas}, \textbf{NumPy}, and \textbf{LabelEncoder}.}
-  \resumeItem{Trained a \textbf{Random Forest Generator} with \textbf{200 estimators} using \textbf{scikit-learn} to predict top 3 finishing positions, with modular design for continuous learning.}
+  \resumeItem{Used Python \textbf{(Pandas, NumPy, scikit‑learn)} to build a time‑series pipeline ingesting a public Netflix dataset \textbf{(Kaggle)} with schema validation; accomplished \textbf{(32 percent)} lower MAE and \textbf{2.1× faster training} via vectorization and caching}
+  \resumeItem{Used \textbf{Streamlit + Plotly} with modular, production‑like UI components and memoized data access; accomplished p95 dashboard load \textbf{<200 ms} and \textbf{55 percent} less manual analysis time through automated charts and indicators}
+  \resumeItem{Used \textbf{pytest + GitHub Actions} to enforce CI gates \textbf{(coverage ≥85 percent, lint/type checks)} and data/contract tests; accomplished \textbf{35 percent faster PR cycles and 40 percent fewer regressions} by running tests on every commit}
 \resumeItemListEnd
 
 \resumeSubHeadingListEnd
@@ -182,5 +182,6 @@
     \textbf{Libraries/Frameworks}{: NumPy, pandas, ReactJS, NextJS, TailwindCSS, NodeJS} \\[1mm]
   }}
 \end{itemize}
+
 \vspace{-15pt}
 \end{document}
